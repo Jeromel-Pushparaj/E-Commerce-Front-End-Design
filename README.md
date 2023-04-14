@@ -1,5 +1,5 @@
-# Begining_times
-Full Story about this Project(Time happend:2020)--
+# Begining_times-(should read)
+#Full Story about this Project(Time happend:2020)
 In this repository I will upload my begining times project which I bring me to the world of coding.NOTE:It contain lot of errors and mistakes
 Main part about this I had no expirience in the coding so I thought ok just build some project. After I think about it I thought what side we build websites
 then I got an idea to build a ecommers website This idea inspired from my mom because my mom keep one small cloth in my village so I decided to help her but when I 
